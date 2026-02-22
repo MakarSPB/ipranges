@@ -1,26 +1,10 @@
 # TG
-cdn-telegram.org
-comments.app
-contest.com
-fragment.com
-graph.org
-quiz.directory
 t.me
-tdesktop.com
-telega.one
-telegra.ph
-telegram-cdn.org
-telegram.dog
 telegram.me
 telegram.org
-telegram.space
-telesco.pe
-tg.dev
-tx.me
-usercontent.dev
-k.telegram.org
+api.telegram.org
+core.telegram.org
 web.telegram.org
-z.telegram.org
 # AI
 ##CHATCPT
 chat.openai.com
