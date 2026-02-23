@@ -1,11 +1,11 @@
-# TG
+#TG
 t.me
 telegram.me
 telegram.org
 api.telegram.org
 core.telegram.org
 web.telegram.org
-# AI
+#AI
 ##CHATCPT
 openai.com
 api.openai.com
