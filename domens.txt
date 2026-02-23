@@ -59,6 +59,14 @@ vortex.data.microsoft.com
 dc.services.visualstudio.com
 marketplace.visualstudio.com
 devdiv.visualstudio.com
+##OAuth Authentication domains
+vssps.dev.azure.com
+app.vssps.visualstudio.com
+.login.microsoftonline.com
+.login.live.com
+login.windows.net
+graph.microsoft.com
+management.azure.com
 #Youtube
 youtube.com
 www.youtube.com
