@@ -1,0 +1,24 @@
+# Ignore everything by default
+*
+
+# Allow only specific files
+!.gitignore
+!domens.txt
+!ipranges.txt
+
+# Common system files to ignore (just in case)
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
+*.temp
+*~
+
+# IDE/Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
