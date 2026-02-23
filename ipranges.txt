@@ -69,6 +69,14 @@
 96.16.0.0/16
 ##Azure Infrastructure for Copilot
 168.63.129.16/32
+##Observed / Manual Copilot IPs (added to cover detected connections)
+##These are added as /32 entries to ensure coverage for monitoring tools
+2.19.11.119/32
+13.107.5.93/32
+96.16.53.151/32
+140.82.121.6/32
+40.70.147.9/32
+184.30.157.239/32
 ##OAuth & Visual Studio Services
 13.73.0.0/16
 20.36.0.0/14
