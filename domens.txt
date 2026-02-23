@@ -51,6 +51,14 @@ odc.officeapps.live.com
 services.bingapis.com
 api.microsoftapp.net
 edgeservices.bing.com
+##Visual Studio additional domains
+visualstudio.microsoft.com
+go.microsoft.com
+download.visualstudio.microsoft.com
+vortex.data.microsoft.com
+dc.services.visualstudio.com
+marketplace.visualstudio.com
+devdiv.visualstudio.com
 #Youtube
 youtube.com
 www.youtube.com
