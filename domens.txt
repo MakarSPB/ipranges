@@ -19,6 +19,9 @@ claude.ai
 api.anthropic.com
 anthropic.com
 ##COPILOT
+collector.github.com
+.enterprise.githubcopilot.com
+.githubusercontent.com
 github.com
 api.github.com
 copilot-proxy.githubusercontent.com
