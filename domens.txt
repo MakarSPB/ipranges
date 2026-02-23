@@ -21,8 +21,10 @@ anthropic.com
 ##COPILOT
 github.com
 api.github.com
+api.githubcopilot.com
 copilot-proxy.githubusercontent.com
 .githubcopilot.com
+copilot.githubusercontent.com
 .individual.githubcopilot.com
 .business.githubcopilot.com
 raw.githubusercontent.com
@@ -30,6 +32,13 @@ objects.githubusercontent.com
 login.microsoftonline.com
 copilot-telemetry.githubusercontent.com
 origin-tracker.githubusercontent.com
+ssl.bing.com
+sydney.bing.com
+www.bing.com
+copilot.microsoft.com
+location.microsoft.com
+mobile.events.data.microsoft.com
+default.exp-tas.com
 #Youtube
 youtube.com
 www.youtube.com
