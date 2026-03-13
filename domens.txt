@@ -61,6 +61,14 @@ app.vsspsext.visualstudio.com
 api.vstsusers.visualstudio.com
 graph.microsoft.com
 management.azure.com
+##GEMINI
+gemini.google.com
+aistudio.google.com
+generativelanguage.googleapis.com
+storage.googleapis.com
+firebaseappcheck.googleapis.com
+securetoken.googleapis.com
+identitytoolkit.googleapis.com
 #Youtube
 youtube.com
 www.youtube.com
