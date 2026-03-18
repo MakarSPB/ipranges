@@ -83,6 +83,8 @@ googlevideo.com
 .ytimg.com
 #test
 myip.ru
+www.devexpress.com
+devexpress.com
 #MUSIC
 ##KVR
 kvraudio.com
