@@ -82,6 +82,8 @@ googlevideo.com
 .gvt2.com
 .ytimg.com
 #test
+www.etpsolutions.com
+etpsolutions.com
 myip.ru
 www.devexpress.com
 devexpress.com
