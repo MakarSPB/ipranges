@@ -115,4 +115,10 @@ libraries.spitfireaudio.com
 d1t6srnqh0yf5l.cloudfront.net
 d3j2mhaq6wx3wy.cloudfront.net
 d27xxe0jmla2yr.cloudfront.net
+##some
+heavyocity.com
+bestservice.com
+heavyocity.com
+uaudio.com
+soundsonline.com
 #END
